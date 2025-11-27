@@ -14,5 +14,18 @@
     "ts-jest": "^29.2.6",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZhjhMsoK)\r # Challenge 5 (Phase 1) - Batch Repetition",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPH-Bootcamp/challenge-5-riadmurad22-ai.git"
+  },
+  "keywords": [],
+  "author": "Riad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WPH-Bootcamp/challenge-5-riadmurad22-ai/issues"
+  },
+  "homepage": "https://github.com/WPH-Bootcamp/challenge-5-riadmurad22-ai#readme"
 }
